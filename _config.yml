@@ -1,0 +1,15 @@
+# site details
+name: Markdawn
+description: Spaceman is the default Jekyll theme
+url: http://markdawn.com/
+
+# social profiles. just remove unneeded profiles.
+github: lucianmarin/markdawn
+
+pygments: true
+permalink: /article/:title.html
+
+markdown: redcarpet
+
+exclude: [readme.md]
+include: [.htaccess]

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign author = site.authors[page.author] %}
+
 <div class="entry">
     <h2 itemprop="name">
         <a href="{{ page.url }}">{{ page.title }}</a>
@@ -16,6 +18,13 @@ layout: default
     <div class="post full">
         {{ content }}
     </div>
+    {% if author %}
+        <div class="author">
+            <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=80" width="40" height="40" />
+            <p>{{ author.name }}</p>
+            <p>@<a href="http://sublevel.net/{{ author.sublevel }}/">{{ author.sublevel }}</a></p>
+        </div>
+    {% endif %}
     <div class="browse">
         {% if page.previous.url %}
             <p>&larr; &nbsp; <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>

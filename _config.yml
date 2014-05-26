@@ -13,3 +13,17 @@ markdown: redcarpet
 
 exclude: [readme.md]
 include: [.htaccess]
+
+authors:
+    lucianmarin:
+        name: Lucian Marin
+        username: lucianmarin
+        gravatar: c5f5de3c0fc37c4e6ac59d3a422124c8
+        subid: 1
+        sublevel: lucian
+    irina:
+        name: Irina
+        username: irina
+        gravatar: 430840c47401a005678cb6c8651b8a43
+        subid: 4
+        sublevel: irina

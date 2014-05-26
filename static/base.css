@@ -184,7 +184,7 @@ a.typo {
     .post p:first-child {
       text-indent: 0; }
     .post p img {
-      margin: 10px 0;
+      margin: 10px -6px;
       display: block;
       border: white 6px solid;
       border-radius: 4px;

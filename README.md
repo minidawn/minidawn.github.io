@@ -1,4 +1,4 @@
 markdawn
 ========
 
-Online publication.
+Open-source magazine.

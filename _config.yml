@@ -7,7 +7,7 @@ url: http://markdawn.com/
 github: lucianmarin/markdawn
 
 highlighter: pygments
-permalink: /markdawn/article/:title.html
+permalink: /article/:title.html
 
 markdown: redcarpet
 

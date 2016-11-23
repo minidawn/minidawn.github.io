@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="http://lucianmarin.github.io/markdawn/" target="_self">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimal-ui" />
     <meta name="description" content="{{ site.description }}" />
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/static/base.css" />
-    <link rel="stylesheet" href="/static/dark.css" />
-    <link rel="stylesheet" href="/static/md.css" />
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" />
+    <link rel="stylesheet" href="/markdawn/static/base.css" />
+    <link rel="stylesheet" href="/markdawn/static/dark.css" />
+    <link rel="stylesheet" href="/markdawn/static/md.css" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/markdawn/rss.xml" />
 </head>
 <body>
 
@@ -17,13 +16,13 @@
     <div class="content">
         <ul>
             <li class="index {% if page.section == "index" %}selected{% endif %}">
-                <a href="/">{{site.name}}</a>
+                <a href="/markdawn/">{{site.name}}</a>
             </li>
             <li class="archive {% if page.section == None or page.section == "archive" %}selected{% endif %}">
-                <a href="/archive/">Archive</a>
+                <a href="/markdawn/archive/">Archive</a>
             </li>
             <li class="about {% if page.section == "about" %}selected{% endif %}">
-                <a href="/about/">About</a>
+                <a href="/markdawn/about/">About</a>
             </li>
         </ul>
     </div>

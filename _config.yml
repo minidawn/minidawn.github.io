@@ -1,10 +1,10 @@
 # site details
 name: Markdawn
 description: Markdawn is an open-source online publication.
-url: http://markdawn.com/
+url: https://minidawn.github.io/
 
 # social profiles. just remove unneeded profiles.
-github: lucianmarin/markdawn
+github: minidawn
 
 highlighter: pygments
 permalink: /article/:title.html

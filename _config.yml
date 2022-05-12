@@ -1,10 +1,10 @@
 # site details
-name: Minidown
-description: Minidown is an open-source online publication.
-url: https://minidown.github.io/
+name: Markdawn
+description: Markdawn is an open-source online publication.
+url: https://minidawn.github.io/
 
 # social profiles. just remove unneeded profiles.
-github: minidown
+github: minidawn
 
 highlighter: pygments
 permalink: /article/:title.html

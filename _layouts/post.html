@@ -9,9 +9,9 @@ layout: default
     <div class="meta">
         <span>{{ page.date | date: "%e %b %Y" }}</span>
         <span>{{ page.date | date: "%H:%M" }}</span>
-        {% if post.author %}
-            <a href="https://subreply.com/{{ post.author }}">
-                {{ post.author }}
+        {% if page.author %}
+            <a href="https://subreply.com/{{ page.author }}">
+                {{ page.author }}
             </a>
         {% endif %}
     </div>

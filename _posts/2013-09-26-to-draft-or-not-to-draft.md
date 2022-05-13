@@ -2,7 +2,7 @@
 layout: post
 date: 2013-09-26 11:48
 title: "To Draft or Not To Draft"
-author: lucianmarin
+author: lucian
 ---
 
 Implementing drafts on Markdawn isn't a complicated thing. I've already done it on a test environment. The problem I see is a psychological thing. If you plan to write multiple articles you eventually get out of focus. I want everyone to focus on a single piece of art.

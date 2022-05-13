@@ -2,7 +2,7 @@
 layout: post
 date: 2014-02-22 14:15
 title: "Markdawn.com will expire this August"
-author: lucianmarin
+author: lucian
 ---
 
 I'm open to any suggestion about how you want this awesome idea to continue.

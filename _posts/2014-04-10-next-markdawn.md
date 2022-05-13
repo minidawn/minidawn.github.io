@@ -2,7 +2,7 @@
 layout: post
 date:   2014-04-10 20:16
 title:  "The New Markdawn"
-author: lucianmarin
+author: lucian
 ---
 
 I suppose there's a moment when you want things to be different. In a modern, futuristic world people want change. Some might say that you deserve the best, some might claim a few human rights.

@@ -2,7 +2,7 @@
 layout: post
 date: 2013-10-15 16:20
 title: "Empowering Free Spirits"
-author: lucianmarin
+author: lucian
 ---
 
 Free spirits can't express themselves in 140 characters and shouldn't. It's against their nature, their way of being. Killing creativity in people is the worst thing corporations are trying to do today. Everything is limited, everything is freedom banned. You get a 612 pixels squared images out of Instagram, nothing more than that. You put in so much creativity effort, buy expensive gears and gadgets. You end up with endless nothings.

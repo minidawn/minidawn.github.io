@@ -2,7 +2,7 @@
 layout: post
 date: 2013-11-01 19:54
 title: "Hesitation Marks The Day"
-author: lucianmarin
+author: lucian
 ---
 
 When you start build something you always wanted to build, hesitation make its appearance. But going back to using all kinds of social networks, having a blog that needs attention and lots of apps that scream for my input is not what future should be like.

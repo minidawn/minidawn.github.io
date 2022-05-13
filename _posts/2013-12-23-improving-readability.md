@@ -2,7 +2,7 @@
 layout: post
 date: 2013-12-23 18:18
 title: "Improving Readability"
-author: markdawn
+author: about
 ---
 
 One of the core features of Markdawn is *reading ability*. I wanted to improved it as much as I can in the latest update.

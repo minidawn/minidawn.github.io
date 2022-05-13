@@ -2,7 +2,7 @@
 layout: post
 date: 2014-01-23 09:14
 title: "Australian Open"
-author: lucianmarin
+author: lucian
 ---
 
 Since HN is down I'm going to watch [Australian Open](http://uk.eurosport.yahoo.com/tennis/livematch/671838.html) and checking MD for updates.

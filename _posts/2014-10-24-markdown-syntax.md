@@ -2,7 +2,7 @@
 layout: post
 date: 2014-10-24 12:57
 title: "Markdown Syntax"
-author: markdawn
+author: about
 ---
 
 Markdawn platform supports the strict version of [Markdown syntax](http://daringfireball.net/projects/markdown/syntax).

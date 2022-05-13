@@ -2,7 +2,7 @@
 layout: post
 date: 2013-12-31 01:20
 title: "Getting the Math Right"
-author: markdawn
+author: about
 ---
 
 The article width on Markdawn is exactly 608px. It's a multiple of 16, the base font size on the web. It's also exactly 16*2 less than 640px, the standard image width on the web and Instagram.

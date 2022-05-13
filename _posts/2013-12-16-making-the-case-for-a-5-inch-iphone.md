@@ -2,7 +2,7 @@
 layout: post
 date: 2013-12-16 17:43
 title: "Making the case for a 5-inch iPhone"
-author: lucianmarin
+author: lucian
 ---
 
 If Apple will introduce a bigger iPhone, it will definitely have a 5-inch screen. If they'll keep the same PPI, then it will have a resolution of 1440x810 pixels. That means it will give user a usable 720x405 screen area.

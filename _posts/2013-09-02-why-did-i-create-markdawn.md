@@ -2,7 +2,7 @@
 layout: post
 date: 2013-09-02 07:51
 title: "Why Did I Create Markdawn?"
-author: lucianmarin
+author: lucian
 ---
 
 There are lots of content platforms out there. Some of them are quite good, but all are focused on one type of content: short publishing or a medium format. I want Markdawn to be the first platform that takes long format into consideration.

@@ -2,7 +2,7 @@
 layout: post
 date: 2013-10-20 15:45
 title: "How to Set a Good Mark?"
-author: lucianmarin
+author: lucian
 ---
 
 I want every single person on this planet to write articles. So they can set their own marks. If you set your own mark, you become free, you don't depend on someone else. Yes, you share the same ideas and principles with other people, but you have your own identity and judgment.

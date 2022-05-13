@@ -2,7 +2,7 @@
 layout: post
 date: 2013-11-14 22:54
 title: "Top Eight Songs for November"
-author: lucianmarin
+author: lucian
 ---
 
 The idea of this *mark* came from [Irina](http://markdawn.com/irina/). She told me that she would listen to “Jubel” on repeat after finding it on radio. Probably that jazz beat had something to do with it. Then I remembered that I used to collect songs that I would listen “[On Repeat](https://soundcloud.com/lucianmarin/sets/on-repeat)” on SoundCloud.

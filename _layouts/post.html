@@ -10,7 +10,9 @@ layout: default
         <span>{{ page.date | date: "%e %b %Y" }}</span>
         <span>{{ page.date | date: "%H:%M" }}</span>
         {% if page.author %}
-            <span>{{ page.author }}</span>
+            <a href="https://subreply.com/{{ post.author }}">
+                {{ post.author }}
+            </a>
         {% endif %}
     </div>
     <div class="post full">

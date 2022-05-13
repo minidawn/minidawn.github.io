@@ -12,7 +12,9 @@ section:    index
             <span>{{ post.date | date: "%e %b %Y" }}</span>
             <span>{{ post.date | date: "%H:%M" }}</span>
             {% if post.author %}
-                <span>{{ post.author }}</span>
+                <a href="https://subreply.com/{{ post.author }}">
+                    {{ post.author }}
+                </a>
             {% endif %}
         </div>
         <div class="post">
